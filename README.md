@@ -1,4 +1,6 @@
-Hi there, I'm Merin Jai 👋
+**Hi there, I'm Merin Jai 👋**
+
+
 🖥️ About Me
 I'm a passionate MCA student at Rajagiri College of Social Sciences (RCSS) with a strong background in software development and hands-on experience in Java, Python, and SQL. I enjoy exploring new technologies, building efficient solutions, and collaborating on meaningful projects.
 
