@@ -1,36 +1,44 @@
-**Hi there, I'm Merin Jai 👋**
+# 🌟 Merin Jai
 
+![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-🖥️ About Me
+## 👋 About Me
 
-I'm a passionate MCA student at Rajagiri College of Social Sciences (RCSS) with a strong background in software development and hands-on experience in Java, Python, and SQL. I enjoy exploring new technologies, building efficient solutions, and collaborating on meaningful projects.
+Hello! I'm **Merin Jai**, an MCA student at **Rajagiri College of Social Sciences (RCSS)** with a passion for software development. I love solving real-world problems using technology, and I specialize in **Java, Python, and SQL**. My expertise extends to **web development, automation, and database management**. 🚀
 
-💼 Experience
+## 💼 Experience
 
-RPA Developer Intern @ Cochin Shipyard Ltd - Automated invoice processing and report generation using RPA tools.
+- 🏢 **RPA Developer Intern** @ *Cochin Shipyard Ltd*  
+  ➤ Automated invoice processing and report generation using **RPA tools**.  
+  
+- 🚚 **Transportation Specialist** @ *Amazon*  
+  ➤ Scoped requirements and improved transportation strategies for **timely delivery**.
 
-Transportation Specialist @ Amazon - Scoped requirements and improved transportation strategies for timely delivery.
+## 🛠️ Tech Stack
 
-💻 Skills
+### 🔹 Programming Languages
+- Java | Python | C++ | C# | ABAP
 
-Programming Languages: Java, Python, C++, C#, ABAP
+### 🔹 Web Technologies
+- HTML | CSS | React | Node.js | PHP | Laravel | .NET
 
-Web Technologies: HTML, CSS, React, Node.js, PHP, Laravel, .NET
+### 🔹 Databases
+- MySQL | Oracle | SQLite | NoSQL
 
-Databases: MySQL, Oracle, SQLite, NoSQL
+### 🔹 Tools & Platforms
+- UiPath | openRPA | VSCode | Android Studio
 
-Tools: UiPath, openRPA, VSCode, Android Studio
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Merin-jai&show_icons=true&theme=radical)
 
-📫 Let's Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merin-jai&layout=compact&theme=radical)
 
-📧 Email: merinjai02@gmail.com
+## 🌍 Let's Connect!
 
-💼 LinkedIn: linkedin.com/in/merin-jai/
+[![Email](https://img.shields.io/badge/Email-merinjai02%40gmail.com-red?style=flat-square&logo=gmail)](mailto:merinjai02@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/merin-jai/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Merin-jai)
 
-👨‍💻 GitHub: github.com/Merin-jai
-
-<!---
-Merin-jai/Merin-jai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+⭐ *Feel free to explore my repositories and contribute!* ⭐
