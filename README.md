@@ -6,6 +6,7 @@
 Hello! I'm **Merin Jai**, an MCA student at **Rajagiri College of Social Sciences (RCSS)** with a passion for software development. I love solving real-world problems using technology, and I specialize in **Java, Python, and SQL**. My expertise extends to **web development, automation, and database management**. 🚀
 
 ## 💼 Experience
+- 🏢 **Front-end Developer Intern** @ *Woxro*  
 
 - 🏢 **RPA Developer Intern** @ *Cochin Shipyard Ltd*  
   ➤ Automated invoice processing and report generation using **RPA tools**.  
