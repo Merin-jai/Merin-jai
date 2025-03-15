@@ -26,7 +26,7 @@ I love solving real-world problems using technology, and I specialize in **Java,
 ## 🛠️ Tech Stack  
 
 ### 🚀 **Programming Languages**  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -35,7 +35,7 @@ I love solving real-world problems using technology, and I specialize in **Java,
 </div>  
 
 ### 🌐 **Web Technologies**  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -46,7 +46,7 @@ I love solving real-world problems using technology, and I specialize in **Java,
 </div>  
 
 ### 🗄️ **Databases**  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -54,7 +54,7 @@ I love solving real-world problems using technology, and I specialize in **Java,
 </div>  
 
 ### ⚙️ **Tools & Platforms**  
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/openRPA-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
