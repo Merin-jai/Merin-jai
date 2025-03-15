@@ -51,6 +51,7 @@ I love solving real-world problems using technology, and I specialize in **Java,
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-78C257?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>  
 
 ### ⚙️ **Tools & Platforms**  
@@ -59,6 +60,14 @@ I love solving real-world problems using technology, and I specialize in **Java,
   <img src="https://img.shields.io/badge/openRPA-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</div>  
+
+### ⚡ **Frameworks & Libraries**  
+<div align="left">
+  <img src="https://img.shields.io/badge/Struts-EB2225?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMP-004482?style=for-the-badge&logo=openmp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPI-004482?style=for-the-badge&logo=mpi&logoColor=white" />
 </div>  
 
 ---
