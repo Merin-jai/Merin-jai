@@ -1,101 +1,78 @@
-# 🌟 Merin Jai  
+# 👋 Hi there, I'm Merin Jai!  
 
-## 👋 About Me  
-Hello! I'm **Merin Jai**, an MCA student at **Rajagiri College of Social Sciences (RCSS)** with a passion for software development.  
-I love solving real-world problems using technology, and I specialize in **Java, Python, and SQL**. My expertise extends to **web development, automation, and database management**. 🚀  
+💻 **Full Stack Developer** | 🧠 **RPA Enthusiast** | 🚀 **Tech Explorer**  
 
 ---
 
-## 💼 Experience  
-
-### 🏢 **Frontend Developer Intern** @ *Woxro*  
-- Developed and optimized the **Purity UI Dashboard** using **React**, ensuring pixel-perfect designs and responsiveness based on Figma.  
-- Implemented authentication using **Firebase** for **Kicks**, an e-commerce platform for premium shoes.  
-- Developed dynamic product filtering, cart functionality, and pagination using **React** and **localStorage**.  
-
-### 🏢 **RPA Developer Intern** @ *Cochin Shipyard Ltd*  
-- Automated invoice processing and report generation using **UiPath** and **openRPA**.  
-- Enhanced workflow efficiency by streamlining data extraction and report generation processes.  
-
-### 🚚 **Transportation Specialist** @ *Amazon*  
-- Scoped requirements and improved transportation strategies for **timely delivery**.  
-- Developed efficient routing solutions to minimize delivery delays and enhance customer satisfaction.  
+### 👨‍💻 About Me
+I'm a passionate MCA graduate with strong programming skills in **Java, Python, JavaScript**, and **SQL**. I have experience in building responsive web applications and automating business processes using modern tools and frameworks.  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🚀 **Programming Languages**  
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ABAP-021223?style=for-the-badge&logo=sap&logoColor=white" />
-</div>  
-
-### 🌐 **Web Technologies**  
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</div>  
-
-### 🗄️ **Databases**  
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-78C257?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>  
-
-### ⚙️ **Tools & Platforms**  
-<div align="left">
-  <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/openRPA-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-</div>  
-
-### ⚡ **Frameworks & Libraries**  
-<div align="left">
-  <img src="https://img.shields.io/badge/Struts-EB2225?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-004482?style=for-the-badge&logo=openmp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MPI-004482?style=for-the-badge&logo=mpi&logoColor=white" />
-</div>  
+### 🚀 Projects
+- 🏆 **Purity UI Dashboard** – Developed responsive admin dashboard using **React.js**, implementing authentication and dynamic state management.  
+- 👟 **Kicks (E-commerce Platform)** – Built a product listing page with filtering, pagination, and cart functionality using Firebase and localStorage.  
+- 📝 **Invoice Automation** – Automated invoice processing and report generation using **UiPath**, reducing manual effort by **30%**.  
+- 🎯 **Student Leave Tracker** – Developed an Android app using **Java** and **SQLite** for managing student leaves.  
 
 ---
 
-## 📊 GitHub Stats  
+### 🛠️ Tech Stack  
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merin-jai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merin-jai&layout=compact&theme=radical" alt="Top Languages" />
-</div>  
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![Struts](https://img.shields.io/badge/Struts-000000?style=flat&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-3E3E3E?style=flat)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+
+**APIs & Tools:**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+
+**Automation:**  
+![UiPath](https://img.shields.io/badge/UiPath-EC2025?style=flat&logo=uipath&logoColor=white)  
+![openRPA](https://img.shields.io/badge/OpenRPA-000000?style=flat&logoColor=white)  
+
+**IDEs:**  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
 
 ---
 
-## 🌍 Let's Connect!  
-
-<div align="center">
-  <a href="mailto:merinjai02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-merinjai02%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/merin-jai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Merin-jai">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</div>  
+### 🏅 Achievements
+- 🎖️ **10th Rank** – MGU BCA Batch 2022  
+- 🥇 **First** in Coding Competition – KMM College Fest  
+- 🥈 **Second** in IT Quiz – St. Thomas College Thrissur   
 
 ---
 
-⭐ *Feel free to explore my repositories and contribute!* ⭐  
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merin-jai/)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Merin-jai)  
+
+---
+
+🚀 **Let’s build something amazing together!**  
