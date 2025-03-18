@@ -64,8 +64,7 @@ I'm a passionate MCA graduate with strong programming skills in **Java, Python, 
 
 ### 🏅 Achievements
 - 🎖️ **10th Rank** – MGU BCA Batch 2022  
-- 🥇 **First** in Coding Competition – KMM College Fest  
-- 🥈 **Second** in IT Quiz – St. Thomas College Thrissur   
+
 
 ---
 
