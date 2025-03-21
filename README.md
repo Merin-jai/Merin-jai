@@ -4,8 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate MCA graduate with strong programming skills in **Java, Python, JavaScript**, and **SQL**. I have experience in building responsive web applications and automating business processes using modern tools and frameworks.  
+ 
 
 ---
 
