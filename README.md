@@ -1,76 +1,79 @@
-# 👋 Hi there, I'm Merin Jai!  
+<h1 align="center">  
+  👋 Hi there, I'm Merin Jai!  
+</h1>  
 
-💻 **Full Stack Developer** | 🧠 **RPA Enthusiast** | 🚀 **Tech Explorer**  
-
----
-### 👨‍💻 About Me
-I'm a passionate MCA graduate with strong programming skills in **Java, Python, JavaScript**, and **SQL**. I have experience in building responsive web applications and automating business processes using modern tools and frameworks. 
- 
----
-
-### 🚀 Projects
-- 🏆 **Purity UI Dashboard** – Developed responsive admin dashboard using **React.js**, implementing authentication and dynamic state management.  
-- 👟 **Kicks (E-commerce Platform)** – Built a product listing page with filtering, pagination, and cart functionality using Firebase and localStorage.  
-- 📝 **Invoice Automation** – Automated invoice processing and report generation using **UiPath**, reducing manual effort by **30%**.  
-- 🎯 **Student Leave Tracker** – Developed an Android app using **Java** and **SQLite** for managing student leaves.  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=450&height=30&lines=Full+Stack+Developer;RPA+Enthusiast;Tech+Explorer" alt="Typing SVG" />  
+</p>  
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+## 🚀 About Me  
+🎓 **MCA Graduate** | 💡 Passionate about **Web Development & Automation**  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+I'm a full-stack developer with expertise in **Java, Python, JavaScript, and SQL**. I enjoy building scalable web applications and automating business processes using modern frameworks and tools. My focus is on delivering efficient, user-friendly, and impactful solutions.  
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![Struts](https://img.shields.io/badge/Struts-000000?style=flat&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-3E3E3E?style=flat)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-
-**APIs & Tools:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-
-**Automation:**  
-![UiPath](https://img.shields.io/badge/UiPath-EC2025?style=flat&logo=uipath&logoColor=white)  
-![openRPA](https://img.shields.io/badge/OpenRPA-000000?style=flat&logoColor=white)  
-
-**IDEs:**  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+🔍 Always learning and exploring new technologies to stay ahead in the tech world!  
 
 ---
 
-### 🏅 Achievements
-- 🎖️ **10th Rank** – MGU BCA Batch 2022  
+## 🌟 Projects  
 
+| 🚀 Project | 🔧 Tech Stack | 📌 Description |  
+|------------|-------------|--------------|  
+| **Purity UI Dashboard** | React.js, Redux, Firebase | Developed a responsive admin dashboard with authentication and dynamic state management. |  
+| **Kicks (E-commerce)** | React.js, Firebase, Tailwind CSS | Built an online store with product filtering, pagination, and cart functionality. |  
+| **Invoice Automation** | UiPath, Python | Automated invoice processing, reducing manual effort by **30%**. |  
+| **Student Leave Tracker** | Java, SQLite, Android Studio | Designed an Android app for managing student leaves. |  
 
 ---
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merin-jai/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Merin-jai)  
+## 🛠️ Tech Stack  
+
+### **Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Struts](https://img.shields.io/badge/Struts-000000?style=for-the-badge&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+
+### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### **Tools & Automation**  
+![UiPath](https://img.shields.io/badge/UiPath-EC2025?style=for-the-badge&logo=uipath&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+
+
+## 📫 Connect with Me  
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/merin-jai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://github.com/Merin-jai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+</p>  
 
 ---
 
-🚀 **Let’s build something amazing together!**  
+<p align="center">  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Let's build something amazing together!** 🚀  
+</p>  
