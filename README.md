@@ -17,16 +17,6 @@ I'm a full-stack developer with expertise in **Java, Python, JavaScript, and SQL
 
 ---
 
-## 🌟 Projects  
-
-| 🚀 Project | 🔧 Tech Stack | 📌 Description |  
-|------------|-------------|--------------|  
-| **Purity UI Dashboard** | React.js, Redux, Firebase | Developed a responsive admin dashboard with authentication and dynamic state management. |  
-| **Kicks (E-commerce)** | React.js, Firebase, Tailwind CSS | Built an online store with product filtering, pagination, and cart functionality. |  
-| **Invoice Automation** | UiPath, Python | Automated invoice processing, reducing manual effort by **30%**. |  
-| **Student Leave Tracker** | Java, SQLite, Android Studio | Designed an Android app for managing student leaves. |  
-
----
 
 ## 🛠️ Tech Stack  
 
