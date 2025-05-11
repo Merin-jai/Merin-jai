@@ -5,13 +5,12 @@
 
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=450&height=30&lines=Full+Stack+Developer;RPA+Enthusiast;Tech+Explorer" alt="Typing SVG" />  
-</p>  
----
+
 
 ## 🚀 About Me  
 🎓 **MCA Graduate** | 💡 Passionate about **Web Development & Automation**  
 
-I'm a full-stack developer with expertise in **Java, Python, JavaScript, and SQL**. I enjoy building scalable web applications and automating business processes using modern frameworks and tools. My focus is on delivering efficient, user-friendly, and impactful solutions.  
+I'm a full-stack developer with expertise in **Java, Python, JavaScript,RPA and SQL**. I enjoy building scalable web applications and automating business processes using modern frameworks and tools. My focus is on delivering efficient, user-friendly, and impactful solutions.  
 
 🔍 Always learning and exploring new technologies to stay ahead in the tech world!  
 
